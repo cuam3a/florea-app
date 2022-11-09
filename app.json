@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "florea-app",
+    "slug": "florea-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "florea-app"
+}
